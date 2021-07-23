@@ -33,3 +33,4 @@ C:\Users\leandro.muchiuti.PORTALDEDOCS.000\Desktop\ProjetoCurso\ProjetoCurso\obj
 C:\Users\leandro.muchiuti.PORTALDEDOCS.000\Desktop\ProjetoCurso\ProjetoCurso\obj\Debug\netcoreapp2.1\ProjetoCurso.pdb
 C:\Users\leandro.muchiuti.PORTALDEDOCS.000\Desktop\ProjetoCurso\ProjetoCurso\obj\Debug\netcoreapp2.1\ProjetoCurso.genruntimeconfig.cache
 C:\Users\leandro.muchiuti.PORTALDEDOCS.000\Desktop\ProjetoCurso\ProjetoCurso\obj\Debug\netcoreapp2.1\ProjetoCurso.csproj.CopyComplete
+C:\Users\leandro.muchiuti.PORTALDEDOCS.000\Desktop\ProjetoCurso\ProjetoCurso\obj\Debug\netcoreapp2.1\Razor\Views\Departments\Index.cshtml.g.cs

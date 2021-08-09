@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\leandro.muchiuti.PORTALDEDOCS.000\\Desktop\\ProjetoCurso\\ProjetoCurso\\ProjetoCurso.csproj": {}
+    "C:\\Users\\Zanatta\\Desktop\\Projeto2\\Projeto_MVC\\ProjetoCurso\\ProjetoCurso.csproj": {}
   },
   "projects": {
-    "C:\\Users\\leandro.muchiuti.PORTALDEDOCS.000\\Desktop\\ProjetoCurso\\ProjetoCurso\\ProjetoCurso.csproj": {
+    "C:\\Users\\Zanatta\\Desktop\\Projeto2\\Projeto_MVC\\ProjetoCurso\\ProjetoCurso.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\leandro.muchiuti.PORTALDEDOCS.000\\Desktop\\ProjetoCurso\\ProjetoCurso\\ProjetoCurso.csproj",
+        "projectUniqueName": "C:\\Users\\Zanatta\\Desktop\\Projeto2\\Projeto_MVC\\ProjetoCurso\\ProjetoCurso.csproj",
         "projectName": "ProjetoCurso",
-        "projectPath": "C:\\Users\\leandro.muchiuti.PORTALDEDOCS.000\\Desktop\\ProjetoCurso\\ProjetoCurso\\ProjetoCurso.csproj",
-        "packagesPath": "C:\\Users\\leandro.muchiuti.PORTALDEDOCS.000\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\leandro.muchiuti.PORTALDEDOCS.000\\Desktop\\ProjetoCurso\\ProjetoCurso\\obj\\",
+        "projectPath": "C:\\Users\\Zanatta\\Desktop\\Projeto2\\Projeto_MVC\\ProjetoCurso\\ProjetoCurso.csproj",
+        "packagesPath": "C:\\Users\\Zanatta\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Zanatta\\Desktop\\Projeto2\\Projeto_MVC\\ProjetoCurso\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\leandro.muchiuti.PORTALDEDOCS.000\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Zanatta\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -40,6 +44,14 @@
         "netcoreapp2.1": {
           "targetAlias": "netcoreapp2.1",
           "dependencies": {
+            "EFDbProvider": {
+              "target": "Package",
+              "version": "[2.1.1, )"
+            },
+            "EFDbProvider.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[2.1.1, )"
+            },
             "Microsoft.AspNetCore": {
               "target": "Package",
               "version": "[2.1.7, )"
@@ -94,6 +106,10 @@
             "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
               "target": "Package",
               "version": "[2.1.10, )"
+            },
+            "Pomelo.JsonObject": {
+              "target": "Package",
+              "version": "[2.2.1, )"
             }
           },
           "imports": [
@@ -106,7 +122,7 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.205\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
         }
       }
     }

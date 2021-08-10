@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Zanatta\\Desktop\\Projeto2\\Projeto_MVC\\ProjetoCurso\\ProjetoCurso.csproj": {}
+    "C:\\Users\\Zanatta\\Desktop\\Projeto\\Projeto_MVC\\ProjetoCurso\\ProjetoCurso.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Zanatta\\Desktop\\Projeto2\\Projeto_MVC\\ProjetoCurso\\ProjetoCurso.csproj": {
+    "C:\\Users\\Zanatta\\Desktop\\Projeto\\Projeto_MVC\\ProjetoCurso\\ProjetoCurso.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Zanatta\\Desktop\\Projeto2\\Projeto_MVC\\ProjetoCurso\\ProjetoCurso.csproj",
+        "projectUniqueName": "C:\\Users\\Zanatta\\Desktop\\Projeto\\Projeto_MVC\\ProjetoCurso\\ProjetoCurso.csproj",
         "projectName": "ProjetoCurso",
-        "projectPath": "C:\\Users\\Zanatta\\Desktop\\Projeto2\\Projeto_MVC\\ProjetoCurso\\ProjetoCurso.csproj",
+        "projectPath": "C:\\Users\\Zanatta\\Desktop\\Projeto\\Projeto_MVC\\ProjetoCurso\\ProjetoCurso.csproj",
         "packagesPath": "C:\\Users\\Zanatta\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Zanatta\\Desktop\\Projeto2\\Projeto_MVC\\ProjetoCurso\\obj\\",
+        "outputPath": "C:\\Users\\Zanatta\\Desktop\\Projeto\\Projeto_MVC\\ProjetoCurso\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

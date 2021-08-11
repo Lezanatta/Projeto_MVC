@@ -1,0 +1,22 @@
+﻿using ProjetoCurso.Data;
+using ProjetoCurso.Models;
+using System.Collections.Generic;
+using System.Linq;
+
+namespace ProjetoCurso.Services
+{
+    public class SellerService
+    {
+        private readonly ProjetoCursoContext _context;
+
+        public SellerService(ProjetoCursoContext context)
+        {
+            _context = context;
+        }
+
+        public List<Seller> FindAll()
+        {
+            return _context.Seller.ToList();
+        }
+    }
+}

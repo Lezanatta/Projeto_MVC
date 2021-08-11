@@ -6,6 +6,7 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.EntityFrameworkCore;
 using ProjetoCurso.Data;
+using ProjetoCurso.Services;
 
 namespace ProjetoCurso
 {
@@ -36,6 +37,7 @@ namespace ProjetoCurso
                     builder.MigrationsAssembly("ProjetoCurso")));
 
             services.AddScoped<SeedingService>();
+            services.AddScoped<SellerService>();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

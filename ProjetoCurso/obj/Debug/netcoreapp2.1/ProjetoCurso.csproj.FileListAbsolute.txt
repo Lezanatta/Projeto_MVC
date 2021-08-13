@@ -159,3 +159,4 @@ C:\Users\Zanatta\Desktop\Repositorio\Projeto_MVC\ProjetoCurso\obj\Debug\netcorea
 C:\Users\Zanatta\Desktop\Repositorio\Projeto_MVC\ProjetoCurso\obj\Debug\netcoreapp2.1\ProjetoCurso.genruntimeconfig.cache
 C:\Users\Zanatta\Desktop\Repositorio\Projeto_MVC\ProjetoCurso\obj\Debug\netcoreapp2.1\ProjetoCurso.csproj.CopyComplete
 C:\Users\Zanatta\Desktop\Repositorio\Projeto_MVC\ProjetoCurso\obj\Debug\netcoreapp2.1\Razor\Views\Sellers\Delete.cshtml.g.cs
+C:\Users\Zanatta\Desktop\Repositorio\Projeto_MVC\ProjetoCurso\obj\Debug\netcoreapp2.1\Razor\Views\Sellers\Details.cshtml.g.cs

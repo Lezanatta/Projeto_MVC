@@ -160,3 +160,47 @@ C:\Users\Zanatta\Desktop\Repositorio\Projeto_MVC\ProjetoCurso\obj\Debug\netcorea
 C:\Users\Zanatta\Desktop\Repositorio\Projeto_MVC\ProjetoCurso\obj\Debug\netcoreapp2.1\ProjetoCurso.csproj.CopyComplete
 C:\Users\Zanatta\Desktop\Repositorio\Projeto_MVC\ProjetoCurso\obj\Debug\netcoreapp2.1\Razor\Views\Sellers\Delete.cshtml.g.cs
 C:\Users\Zanatta\Desktop\Repositorio\Projeto_MVC\ProjetoCurso\obj\Debug\netcoreapp2.1\Razor\Views\Sellers\Details.cshtml.g.cs
+C:\Users\Zanatta\Desktop\Nova pasta\Projeto_MVC\ProjetoCurso\obj\Debug\netcoreapp2.1\ProjetoCurso.csproj.AssemblyReference.cache
+C:\Users\Zanatta\Desktop\Nova pasta\Projeto_MVC\ProjetoCurso\obj\Debug\netcoreapp2.1\ProjetoCurso.AssemblyInfoInputs.cache
+C:\Users\Zanatta\Desktop\Nova pasta\Projeto_MVC\ProjetoCurso\obj\Debug\netcoreapp2.1\ProjetoCurso.AssemblyInfo.cs
+C:\Users\Zanatta\Desktop\Nova pasta\Projeto_MVC\ProjetoCurso\obj\Debug\netcoreapp2.1\ProjetoCurso.csproj.CoreCompileInputs.cache
+C:\Users\Zanatta\Desktop\Nova pasta\Projeto_MVC\ProjetoCurso\obj\Debug\netcoreapp2.1\ProjetoCurso.RazorAssemblyInfo.cache
+C:\Users\Zanatta\Desktop\Nova pasta\Projeto_MVC\ProjetoCurso\obj\Debug\netcoreapp2.1\ProjetoCurso.RazorAssemblyInfo.cs
+C:\Users\Zanatta\Desktop\Nova pasta\Projeto_MVC\ProjetoCurso\obj\Debug\netcoreapp2.1\ProjetoCurso.TagHelpers.input.cache
+C:\Users\Zanatta\Desktop\Nova pasta\Projeto_MVC\ProjetoCurso\obj\Debug\netcoreapp2.1\ProjetoCurso.TagHelpers.output.cache
+C:\Users\Zanatta\Desktop\Nova pasta\Projeto_MVC\ProjetoCurso\obj\Debug\netcoreapp2.1\ProjetoCurso.RazorCoreGenerate.cache
+C:\Users\Zanatta\Desktop\Nova pasta\Projeto_MVC\ProjetoCurso\obj\Debug\netcoreapp2.1\Razor\Views\Departments\Create.cshtml.g.cs
+C:\Users\Zanatta\Desktop\Nova pasta\Projeto_MVC\ProjetoCurso\obj\Debug\netcoreapp2.1\Razor\Views\Departments\Delete.cshtml.g.cs
+C:\Users\Zanatta\Desktop\Nova pasta\Projeto_MVC\ProjetoCurso\obj\Debug\netcoreapp2.1\Razor\Views\Departments\Details.cshtml.g.cs
+C:\Users\Zanatta\Desktop\Nova pasta\Projeto_MVC\ProjetoCurso\obj\Debug\netcoreapp2.1\Razor\Views\Departments\Edit.cshtml.g.cs
+C:\Users\Zanatta\Desktop\Nova pasta\Projeto_MVC\ProjetoCurso\obj\Debug\netcoreapp2.1\Razor\Views\Departments\Index.cshtml.g.cs
+C:\Users\Zanatta\Desktop\Nova pasta\Projeto_MVC\ProjetoCurso\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.cshtml.g.cs
+C:\Users\Zanatta\Desktop\Nova pasta\Projeto_MVC\ProjetoCurso\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.cshtml.g.cs
+C:\Users\Zanatta\Desktop\Nova pasta\Projeto_MVC\ProjetoCurso\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Zanatta\Desktop\Nova pasta\Projeto_MVC\ProjetoCurso\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Zanatta\Desktop\Nova pasta\Projeto_MVC\ProjetoCurso\obj\Debug\netcoreapp2.1\Razor\Views\Sellers\Create.cshtml.g.cs
+C:\Users\Zanatta\Desktop\Nova pasta\Projeto_MVC\ProjetoCurso\obj\Debug\netcoreapp2.1\Razor\Views\Sellers\Delete.cshtml.g.cs
+C:\Users\Zanatta\Desktop\Nova pasta\Projeto_MVC\ProjetoCurso\obj\Debug\netcoreapp2.1\Razor\Views\Sellers\Details.cshtml.g.cs
+C:\Users\Zanatta\Desktop\Nova pasta\Projeto_MVC\ProjetoCurso\obj\Debug\netcoreapp2.1\Razor\Views\Sellers\Index.cshtml.g.cs
+C:\Users\Zanatta\Desktop\Nova pasta\Projeto_MVC\ProjetoCurso\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Zanatta\Desktop\Nova pasta\Projeto_MVC\ProjetoCurso\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\Users\Zanatta\Desktop\Nova pasta\Projeto_MVC\ProjetoCurso\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Zanatta\Desktop\Nova pasta\Projeto_MVC\ProjetoCurso\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Zanatta\Desktop\Nova pasta\Projeto_MVC\ProjetoCurso\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Zanatta\Desktop\Nova pasta\Projeto_MVC\ProjetoCurso\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Zanatta\Desktop\Nova pasta\Projeto_MVC\ProjetoCurso\obj\Debug\netcoreapp2.1\ProjetoCurso.RazorTargetAssemblyInfo.cache
+C:\Users\Zanatta\Desktop\Nova pasta\Projeto_MVC\ProjetoCurso\obj\Debug\netcoreapp2.1\ProjetoCurso.RazorTargetAssemblyInfo.cs
+C:\Users\Zanatta\Desktop\Nova pasta\Projeto_MVC\ProjetoCurso\obj\Debug\netcoreapp2.1\ProjetoCurso.dll
+C:\Users\Zanatta\Desktop\Nova pasta\Projeto_MVC\ProjetoCurso\obj\Debug\netcoreapp2.1\ProjetoCurso.pdb
+C:\Users\Zanatta\Desktop\Nova pasta\Projeto_MVC\ProjetoCurso\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\Zanatta\Desktop\Nova pasta\Projeto_MVC\ProjetoCurso\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\Zanatta\Desktop\Nova pasta\Projeto_MVC\ProjetoCurso\bin\Debug\netcoreapp2.1\ProjetoCurso.deps.json
+C:\Users\Zanatta\Desktop\Nova pasta\Projeto_MVC\ProjetoCurso\bin\Debug\netcoreapp2.1\ProjetoCurso.runtimeconfig.json
+C:\Users\Zanatta\Desktop\Nova pasta\Projeto_MVC\ProjetoCurso\bin\Debug\netcoreapp2.1\ProjetoCurso.runtimeconfig.dev.json
+C:\Users\Zanatta\Desktop\Nova pasta\Projeto_MVC\ProjetoCurso\bin\Debug\netcoreapp2.1\ProjetoCurso.dll
+C:\Users\Zanatta\Desktop\Nova pasta\Projeto_MVC\ProjetoCurso\bin\Debug\netcoreapp2.1\ProjetoCurso.pdb
+C:\Users\Zanatta\Desktop\Nova pasta\Projeto_MVC\ProjetoCurso\bin\Debug\netcoreapp2.1\ProjetoCurso.Views.dll
+C:\Users\Zanatta\Desktop\Nova pasta\Projeto_MVC\ProjetoCurso\bin\Debug\netcoreapp2.1\ProjetoCurso.Views.pdb
+C:\Users\Zanatta\Desktop\Nova pasta\Projeto_MVC\ProjetoCurso\obj\Debug\netcoreapp2.1\ProjetoCurso.Views.pdb
+C:\Users\Zanatta\Desktop\Nova pasta\Projeto_MVC\ProjetoCurso\obj\Debug\netcoreapp2.1\ProjetoCurso.genruntimeconfig.cache
+C:\Users\Zanatta\Desktop\Nova pasta\Projeto_MVC\ProjetoCurso\obj\Debug\netcoreapp2.1\ProjetoCurso.csproj.CopyComplete

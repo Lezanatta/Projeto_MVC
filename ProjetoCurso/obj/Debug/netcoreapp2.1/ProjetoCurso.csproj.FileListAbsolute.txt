@@ -204,3 +204,4 @@ C:\Users\Zanatta\Desktop\Nova pasta\Projeto_MVC\ProjetoCurso\bin\Debug\netcoreap
 C:\Users\Zanatta\Desktop\Nova pasta\Projeto_MVC\ProjetoCurso\obj\Debug\netcoreapp2.1\ProjetoCurso.Views.pdb
 C:\Users\Zanatta\Desktop\Nova pasta\Projeto_MVC\ProjetoCurso\obj\Debug\netcoreapp2.1\ProjetoCurso.genruntimeconfig.cache
 C:\Users\Zanatta\Desktop\Nova pasta\Projeto_MVC\ProjetoCurso\obj\Debug\netcoreapp2.1\ProjetoCurso.csproj.CopyComplete
+C:\Users\Zanatta\Desktop\Nova pasta\Projeto_MVC\ProjetoCurso\obj\Debug\netcoreapp2.1\Razor\Views\Sellers\Edit.cshtml.g.cs

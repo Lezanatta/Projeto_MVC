@@ -19,6 +19,7 @@ namespace ProjetoCurso.Services
         {
             return _context.Seller.ToList();
         }
+        //outro teste
 
         public void Insert(Seller obj)
         {

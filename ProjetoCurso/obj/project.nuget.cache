@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "3xyMlQhuwN0zqhUU6V+YyHnBbEYNY09PWjxAlokFGeNHOMNwzhAP7qIzFI2JRhKmZbth4IYz+xkXb0lkTHa+eA==",
+  "dgSpecHash": "I4Bb5FxKqOLtLHMv+zKnP8hOrx1FtTS1vTdJpRD2IayuAanHomdzRJW2qsVOkU0OaHzoJ1cVEbJax3e3uLNzCg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Zanatta\\Desktop\\Nova pasta\\Projeto_MVC\\ProjetoCurso\\ProjetoCurso.csproj",
+  "projectFilePath": "C:\\Users\\Zanatta\\Desktop\\Repositorio\\Projeto_MVC\\ProjetoCurso\\ProjetoCurso.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Zanatta\\.nuget\\packages\\efcore.bulkextensions\\2.1.4\\efcore.bulkextensions.2.1.4.nupkg.sha512",
     "C:\\Users\\Zanatta\\.nuget\\packages\\efdbprovider\\2.1.1\\efdbprovider.2.1.1.nupkg.sha512",

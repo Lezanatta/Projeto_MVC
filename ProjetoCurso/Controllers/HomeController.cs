@@ -1,5 +1,5 @@
 ﻿using Microsoft.AspNetCore.Mvc;
-using ProjetoCurso.Models.ViewModels;
+using ProjetoCurso.Models.ViewModels.ErrorViewModel;
 using System.Diagnostics;
 
 namespace ProjetoCurso.Controllers

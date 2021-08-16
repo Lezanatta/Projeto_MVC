@@ -13356,11 +13356,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Zanatta\\Desktop\\Nova pasta\\Projeto_MVC\\ProjetoCurso\\ProjetoCurso.csproj",
+      "projectUniqueName": "C:\\Users\\Zanatta\\Desktop\\Repositorio\\Projeto_MVC\\ProjetoCurso\\ProjetoCurso.csproj",
       "projectName": "ProjetoCurso",
-      "projectPath": "C:\\Users\\Zanatta\\Desktop\\Nova pasta\\Projeto_MVC\\ProjetoCurso\\ProjetoCurso.csproj",
+      "projectPath": "C:\\Users\\Zanatta\\Desktop\\Repositorio\\Projeto_MVC\\ProjetoCurso\\ProjetoCurso.csproj",
       "packagesPath": "C:\\Users\\Zanatta\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Zanatta\\Desktop\\Nova pasta\\Projeto_MVC\\ProjetoCurso\\obj\\",
+      "outputPath": "C:\\Users\\Zanatta\\Desktop\\Repositorio\\Projeto_MVC\\ProjetoCurso\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

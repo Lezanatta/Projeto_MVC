@@ -76,7 +76,7 @@ using ProjetoCurso.Models;
             WriteLiteral("</h2>\r\n\r\n    <nav class=\"navbar navbar-inverse\">\r\n        <div class=\"container-fluid\">\r\n            ");
             EndContext();
             BeginContext(245, 712, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "bfb139a786704d2290a9970a4e051870", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "83bfed9879504c2b9460d704bdd65997", async() => {
                 BeginContext(297, 231, true);
                 WriteLiteral("\r\n                <div class=\"form-group\">\r\n                    <div class=\"form-group\">\r\n                        <label for=\"minDate\">Min Date</label>\r\n                        <input type=\"date\" class=\"form-control\" name=\"minDate\"");
                 EndContext();

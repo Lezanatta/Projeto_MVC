@@ -206,3 +206,6 @@ C:\Users\Zanatta\Desktop\Nova pasta\Projeto_MVC\ProjetoCurso\obj\Debug\netcoreap
 C:\Users\Zanatta\Desktop\Nova pasta\Projeto_MVC\ProjetoCurso\obj\Debug\netcoreapp2.1\ProjetoCurso.csproj.CopyComplete
 C:\Users\Zanatta\Desktop\Nova pasta\Projeto_MVC\ProjetoCurso\obj\Debug\netcoreapp2.1\Razor\Views\Sellers\Edit.cshtml.g.cs
 C:\Users\Zanatta\Desktop\Repositorio\Projeto_MVC\ProjetoCurso\obj\Debug\netcoreapp2.1\Razor\Views\Sellers\Edit.cshtml.g.cs
+C:\Users\Zanatta\Desktop\Repositorio\Projeto_MVC\ProjetoCurso\obj\Debug\netcoreapp2.1\Razor\Views\SalesRecords\Index.cshtml.g.cs
+C:\Users\Zanatta\Desktop\Repositorio\Projeto_MVC\ProjetoCurso\obj\Debug\netcoreapp2.1\Razor\Views\SalesRecords\GroupingSearch.cshtml.g.cs
+C:\Users\Zanatta\Desktop\Repositorio\Projeto_MVC\ProjetoCurso\obj\Debug\netcoreapp2.1\Razor\Views\SalesRecords\SimpleSearch.cshtml.g.cs
